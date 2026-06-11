@@ -23,19 +23,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare",
     "status": "up",
-    "uptime": "81.56%",
-    "uptimeDay": "81.56%",
-    "uptimeWeek": "81.56%",
-    "uptimeMonth": "81.56%",
-    "uptimeYear": "81.56%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 128,
     "timeDay": 128,
     "timeWeek": 128,
     "timeMonth": 128,
     "timeYear": 128,
-    "dailyMinutesDown": {
-      "2026-06-11": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Claire Labbe Osteopathe",
