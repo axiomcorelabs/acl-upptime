@@ -6,14 +6,18 @@ sites:
   - name: Axiom Core Labs
     url: https://www.axiom-core-labs.com
     icon: https://axiom-core-labs.com/favicon.ico
+    maxResponseTime: 5000
   - name: Cloudflare
     url: https://www.cloudflarestatus.com/
+    maxResponseTime: 5000
   - name: Claire Labbe Osteopathe
     url: https://clairelabbeosteopathe.com/
     icon: https://clairelabbeosteopathe.com/favicon.ico
+    maxResponseTime: 5000
   - name: Arthur Lebas Etiopathe
     url: https://www.arthur-lebas-etiopathe.com/
     icon: https://www.arthur-lebas-etiopathe.com/favicon.ico
+    maxResponseTime: 5000
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
