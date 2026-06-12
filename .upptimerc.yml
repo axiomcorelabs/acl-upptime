@@ -21,12 +21,12 @@ sites:
     icon: https://resend.com/static/favicons/favicon.ico?v=1
     maxResponseTime: 15000
     
-  - name: Claire Labbe Osteopathe
+  - name: Public Client - Claire Labbe Osteopathe
     url: https://clairelabbeosteopathe.com/
     icon: https://clairelabbeosteopathe.com/favicon.ico
     maxResponseTime: 5000
     
-  - name: Arthur Lebas Etiopathe
+  - name: Public Client - Arthur Lebas Etiopathe
     url: https://www.arthur-lebas-etiopathe.com/
     icon: https://www.arthur-lebas-etiopathe.com/favicon.ico
     maxResponseTime: 5000
