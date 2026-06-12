@@ -43,12 +43,16 @@ status-website:
   # baseUrl: /acl-upptime
   logoUrl: https://status.axiom-core-labs.com/acl-icon.svg
   themeUrl: https://status.axiom-core-labs.com/acl-website-theme.css
+  favicon: https://status.axiom-core-labs.com/favicon.png
+  faviconSvg: https://status.axiom-core-labs.com/favicon.svg
   name: Axiom Core Labs - Status
   introTitle: "**Axiom Core Labs** uptime monitor and status page."
   introMessage: This status page data updates **every 30 minutes**.
   navbar:
     - title: Status
       href: /
+    # - title: Status Links
+    #   href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
 
