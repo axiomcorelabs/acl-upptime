@@ -1,8 +1,8 @@
 :root {
-  --body-background-color: #011945;
+  --body-background-color: #1a202c;
   --body-text-color: #f0ffff;
-  --card-background-color: #0d2f6e;
-  --nav-background-color: #0d2f6e;
+  --card-background-color: #2d3748;
+  --nav-background-color: #2d3748;
   --nav-border-bottom-color: #002d80;
   --nav-current-border-bottom-color: #1abc9c;
   --card-border-color: #002d80;
@@ -10,7 +10,7 @@
   --down-background-color: #6b1020;
   --degraded-border-left-color: #f7b731;
   --up-border-left-color: #20bf6b;
-  --tag-color: #0d2f6e;
+  --tag-color: #2d3748;
   --tag-up-background-color: #20bf6b;
   --tag-down-background-color: #eb3b5a;
   --tag-degraded-background-color: #f7b731;
