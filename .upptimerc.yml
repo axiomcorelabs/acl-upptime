@@ -41,7 +41,8 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.axiom-core-labs.com
   # baseUrl: /acl-upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://status.axiom-core-labs.com/acl-icon.svg
+  themeUrl: https://status.axiom-core-labs.com/acl-website-theme.css
   name: Axiom Core Labs - Status
   introTitle: "**Axiom Core Labs** uptime monitor and status page."
   introMessage: This status page data updates **every 30 minutes**.
