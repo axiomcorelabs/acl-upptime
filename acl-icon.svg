@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Axiom Core Labs Logo - White with Light Blue Dot -->
+  <!-- For use on dark backgrounds with light blue accent -->
+  <!-- Last updated: 2025-11-27 -->
+  
+  <!-- White "A" shape with rounded corners -->
+  <path d="M50 25 L30 70 L40 70 L50 45 L60 70 L70 70 Z" fill="white" stroke="white" stroke-width="2" stroke-linejoin="round" stroke-linecap="round"/>
+  
+  <!-- Light blue dot (more saturated and lighter than muted blue) -->
+  <circle cx="50" cy="70" r="5" fill="#6b8db8"/>
+</svg>
