@@ -4,7 +4,7 @@ repo: acl-upptime # The name of this repository
 
 sites:
 
-  - name: Axiom Core Labs - Services
+  - name: Axiom Core - Services
     url: https://www.axiom-core-labs.com
     icon: https://axiom-core-labs.com/favicon.ico
     maxResponseTime: 5000
@@ -45,8 +45,8 @@ status-website:
   themeUrl: https://status.axiom-core-labs.com/acl-website-theme.css
   favicon: https://status.axiom-core-labs.com/favicon.png
   faviconSvg: https://status.axiom-core-labs.com/favicon.svg
-  name: Axiom Core Labs - Status
-  introTitle: "**Axiom Core Labs** uptime monitor and status page."
+  name: Axiom Core - Status
+  introTitle: "**Axiom Core** status page."
   introMessage: This status page data updates **every 30 minutes**.
   navbar:
     - title: Status
