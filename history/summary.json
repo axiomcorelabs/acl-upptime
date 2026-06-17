@@ -22,18 +22,20 @@
     "url": "https://www.cloudflarestatus.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.cloudflarestatus.com.ico",
     "slug": "cloudflare-hosting-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 204,
-    "timeDay": 178,
-    "timeWeek": 204,
-    "timeMonth": 204,
-    "timeYear": 204,
-    "dailyMinutesDown": {}
+    "time": 188,
+    "timeDay": 101,
+    "timeWeek": 188,
+    "timeMonth": 188,
+    "timeYear": 188,
+    "dailyMinutesDown": {
+      "2026-06-17": 0
+    }
   },
   {
     "name": "Resend API - Email & Form Services",
