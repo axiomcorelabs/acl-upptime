@@ -16,6 +16,11 @@ sites:
       - "Content-Type: application/json"
     icon: https://resend.com/static/favicons/favicon.ico?v=1
     maxResponseTime: 2000
+
+  - name: Public Client - Factory Park
+    url: https://factory-park-immobilier.com/
+    icon: https://factory-park-immobilier.com/favicon.ico
+    maxResponseTime: 1500
     
   - name: Public Client - Claire Labbe Osteopathe
     url: https://clairelabbeosteopathe.com/
