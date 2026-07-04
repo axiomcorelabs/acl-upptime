@@ -27,7 +27,7 @@ sites:
     icon: https://osteopathe-mariegrosset.com/favicon.ico
     maxResponseTime: 1500
 
-   - name: Public Client - Arthur Lebas Etiopathe
+  - name: Public Client - Arthur Lebas Etiopathe
     url: https://www.arthur-lebas-etiopathe.com/
     icon: https://www.arthur-lebas-etiopathe.com/favicon.ico
     maxResponseTime: 1500
