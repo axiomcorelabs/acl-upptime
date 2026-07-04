@@ -94,17 +94,19 @@
     "url": "$PRIVATE_CLIENT_15A1D79_URL",
     "icon": "https://axiom-core-labs.com/favicon.ico",
     "slug": "private-client-15-a1-d79",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 79,
-    "timeDay": 87,
-    "timeWeek": 71,
-    "timeMonth": 79,
-    "timeYear": 79,
-    "dailyMinutesDown": {}
+    "time": 93,
+    "timeDay": 286,
+    "timeWeek": 123,
+    "timeMonth": 93,
+    "timeYear": 93,
+    "dailyMinutesDown": {
+      "2026-07-04": 0
+    }
   }
 ]
