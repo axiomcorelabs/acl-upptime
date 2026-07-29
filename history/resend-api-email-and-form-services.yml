@@ -1,7 +1,7 @@
 url: https://api.resend.com/contacts
-status: down
-code: 500
-responseTime: 83
-lastUpdated: 2026-07-29T16:08:21.834Z
+status: up
+code: 200
+responseTime: 151
+lastUpdated: 2026-07-29T16:40:36.382Z
 startTime: 2026-06-12T17:07:42.778Z
 generator: Upptime <https://github.com/upptime/upptime>
