@@ -22,18 +22,20 @@
     "url": "https://api.resend.com/contacts",
     "icon": "https://resend.com/static/favicons/favicon.ico?v=1",
     "slug": "resend-api-email-and-form-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 217,
-    "timeDay": 133,
-    "timeWeek": 227,
-    "timeMonth": 204,
-    "timeYear": 217,
-    "dailyMinutesDown": {}
+    "time": 215,
+    "timeDay": 108,
+    "timeWeek": 209,
+    "timeMonth": 200,
+    "timeYear": 215,
+    "dailyMinutesDown": {
+      "2026-07-29": 0
+    }
   },
   {
     "name": "Public Client - Factory Park",
