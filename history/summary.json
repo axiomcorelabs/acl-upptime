@@ -4,18 +4,20 @@
     "url": "https://www.axiom-core-labs.com",
     "icon": "https://axiom-core-labs.com/favicon.ico",
     "slug": "axiom-core-services",
-    "status": "up",
+    "status": "degraded",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 302,
-    "timeDay": 219,
-    "timeWeek": 273,
-    "timeMonth": 311,
-    "timeYear": 302,
-    "dailyMinutesDown": {}
+    "time": 324,
+    "timeDay": 879,
+    "timeWeek": 432,
+    "timeMonth": 349,
+    "timeYear": 324,
+    "dailyMinutesDown": {
+      "2026-08-03": 0
+    }
   },
   {
     "name": "Resend API - Email & Form Services",
