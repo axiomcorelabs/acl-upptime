@@ -31,6 +31,16 @@ sites:
     url: https://www.arthur-lebas-etiopathe.com/
     icon: https://www.arthur-lebas-etiopathe.com/favicon.ico
     maxResponseTime: 1500
+
+  - name: Public Client - Boucle Nutrition
+    url: https://boucle-nutrition.com/
+    icon: https://boucle-nutrition.com/favicon.ico
+    maxResponseTime: 1500
+  
+  - name: Public Client - Jade Floury Osteopathe
+    url: https://jadeflouryosteopathe.com/
+    icon: https://jadeflouryosteopathe.com/favicon.ico
+    maxResponseTime: 1500
     
   - name: Public Client - Claire Labbe Osteopathe
     url: https://clairelabbeosteopathe.com/
