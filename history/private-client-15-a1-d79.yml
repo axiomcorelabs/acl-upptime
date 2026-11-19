@@ -1,7 +1,7 @@
 url: $PRIVATE_CLIENT_15A1D79_URL
-status: up
-code: 200
-responseTime: 82
-lastUpdated: 2026-11-18T04:03:45.561Z
+status: down
+code: 429
+responseTime: 438
+lastUpdated: 2026-11-19T04:00:37.114Z
 startTime: 2026-06-12T17:07:43.670Z
 generator: Upptime <https://github.com/upptime/upptime>
